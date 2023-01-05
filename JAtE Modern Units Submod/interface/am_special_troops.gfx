@@ -1,0 +1,49 @@
+objectTypes = {
+
+#Mushers
+	pdxmesh = {
+		name = "englishgfx_mushers"
+		file = "gfx/models/armor.mesh"
+		scale = 10.00f
+	}
+	
+
+#Cowboys
+	pdxmesh = {
+		name = "westerngfx_cowboys"
+		file = "gfx/models/armor.mesh"
+		scale = 10.00f
+	}
+		
+#Ballestero
+	pdxmesh = {
+		name = "southerngfx_ballestero"
+		file = "gfx\models\gfx\models\UNIT264.mesh"
+		
+		scale = 25.0f
+	}	
+	
+
+#Pike Cavalry
+	pdxmesh = {
+		name = "germangfx_pike_cavalry"
+		file = "gfx/models/armor.mesh"
+		scale = 10.00f
+	}
+
+#Cossacks
+	pdxmesh = {
+		name = "westerngfx_cossacks"
+		file = "gfx/models/armor.mesh"
+		scale = 10.00f
+	}
+	
+#Samurai
+	pdxmesh = {
+		name = "mongolgfx_samurai"
+		file = "gfx\models\gfx\models\UNIT264.mesh"
+		
+		scale = 25.0f
+	}
+
+}
